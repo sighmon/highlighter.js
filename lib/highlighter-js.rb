@@ -1,5 +1,5 @@
-module Highlighter
-  module JS
+module Highlighterjs
+  module Rails
     class Engine < ::Rails::Engine
     end
   end
