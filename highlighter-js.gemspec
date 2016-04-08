@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.description = "Highlighter.js originally from huffpostlabs. A jQuery plugin that allows for enabling tooltips on user selected text."
   s.authors     = ["Matthew Conlen"]
   s.email       = 'mc@mathisonian.com'
-  s.files       = ["vendor/assets/javascripts/highlighter/jQuery.highlighter.js"]
+  s.files       = ["vendor/assets/javascripts/highlighter/jQuery.highlighter.js", "lib/highlighter-js.rb"]
   s.homepage    =
     'https://github.com/sighmon/highlighter.js'
   s.license       = 'WTFPL, Version 2'
