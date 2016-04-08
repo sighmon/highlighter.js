@@ -7,7 +7,6 @@ Gem::Specification.new do |s|
   s.authors     = ["Matthew Conlen"]
   s.email       = 'mc@mathisonian.com'
   s.files       = ["vendor/assets/javascripts/highlighter/jQuery.highlighter.js", "lib/highlighter-js.rb"]
-  s.homepage    =
-    'https://github.com/sighmon/highlighter.js'
-  s.license       = 'WTFPL, Version 2'
+  s.homepage    = 'https://github.com/sighmon/highlighter.js'
+  s.license     = 'Nonstandard'
 end
